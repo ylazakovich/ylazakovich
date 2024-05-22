@@ -1,9 +1,6 @@
 <h3 align="center">Hi 👋, I'm Yaraslau</h1>
 <h4 align="center">A passionate Software development engineer in Test</h3>
 
-I'm Software development engineer in Test. My primary focus is Java.
-Have a good expertiese in Web and Mobile development with testing
-
 <h4 align="center">
   Let's Connect and have a Chat!💬
 </h4>
